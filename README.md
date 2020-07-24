@@ -14,9 +14,6 @@
 <em>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-  
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London;
@@ -34,7 +31,7 @@
 <hr>
 <div>
 <p> 
-### Things I'm good at :fire:
+**Things I'm good at :fire:**
 **Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby , Dart.
 
 **Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
@@ -42,6 +39,9 @@
 **Libraries & Tools:** AWS EC2, AWS S3, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
@@ -63,3 +63,32 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 </p>
 </div>
+
+```python
+
+```
+
+<!-- #region -->
+### Connect with me
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:josh_billion@yahoo.com)
+
+**Version Control:**  One and only GitHub :heart:
+
+
+
+(To get a assured reply in under 5 mins :wink:)
+
+
+**Joshua Owusu Ankomah**
+<a href="mailto:josh_billion@yahoo.com" rel="Email Me!!">![Foo](img src="https://img.icons8.com/bubbles/100/000000/secured-letter.png)]</a>
+
+
+### My Socials
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/code-JOA)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/joshua.owusuankomah/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/jay_rockerfella/)
+
+<!-- #endregion -->
+
+```python
+
+```
