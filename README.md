@@ -68,6 +68,20 @@
 
 ```
 
+![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=code-JOA&show_icons=true&hide_border=true)
+
+<br/>
+
+You have finally discovered my Github profile!!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
+
+```python
+
+```
+
 <!-- #region -->
 ### Connect with me
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:josh_billion@yahoo.com)
@@ -88,6 +102,14 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/code-JOA)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/joshua.owusuankomah/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/jay_rockerfella/)
 
 <!-- #endregion -->
+
+```python
+
+```
+
+```python
+
+```
 
 ```python
 
