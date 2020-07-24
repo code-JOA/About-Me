@@ -86,6 +86,10 @@ Happy Coding!!
 ### Connect with me
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:josh_billion@yahoo.com)
 
+
+### [My Website](https://code-joa.github.io/My-Website/)
+
+
 **Version Control:**  One and only GitHub :heart:
 
 
@@ -93,8 +97,6 @@ Happy Coding!!
 (To get a assured reply in under 5 mins :wink:)
 
 
-**Joshua Owusu Ankomah**
-<a href="mailto:josh_billion@yahoo.com" rel="Email Me!!">![Foo](img src="https://img.icons8.com/bubbles/100/000000/secured-letter.png)]</a>
 
 
 ### My Socials
