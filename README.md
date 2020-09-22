@@ -5,7 +5,7 @@
  -->
 <p>
   <em>
-    I'm a <b>junior Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from London, United Kingdom.
+    I'm a <b>junior Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from London, United Kingdom.
   </em>
  </p>
 
@@ -32,6 +32,7 @@
 <div>
 <p> 
 **Things I'm good at :fire:**
+    
 **Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby , Dart.
 
 **Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
