@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from London, United Kingdom.
+    I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in London, United Kingdom.
   </em>
  </p>
 
@@ -15,7 +15,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London;
+- 👨🏽‍💻 I recently completed my Data Science studies at Flatiron school in London;
 <!-- - 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London; -->
 - ⏳ I am constantly learning and keep myself updated with the latest technologies. 
 - 🤔 My interests are Data Science, web development and design;
