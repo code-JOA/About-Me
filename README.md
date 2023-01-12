@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in London, United Kingdom.
+    I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in London, United Kingdom.
   </em>
  </p>
 
@@ -20,7 +20,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I am a Data scientist based in London;
-<!-- - 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London; -->
+<!-- - 💼 I am also currently...... -->
 - ⏳ I am constantly learning and keep myself updated with the latest technologies. 
 - 🤔 My interests are Data Science, web development and design ( UX/UI ) using Figma;
 - 💬 Ask me about anything, I am happy to help;
@@ -36,9 +36,12 @@
 <p> 
 **Things I'm good at :fire:**
     
-**Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby , Dart.
+**Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby , Dart, Wordpress .
 
 **Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+
+**Currently learning:**  React , Rust, Lua, Django, php , Go , MERN.
+
 
 **Libraries & Tools:** AWS EC2, AWS S3, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
 
