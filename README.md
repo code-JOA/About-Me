@@ -15,10 +15,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I recently completed my Data Science studies at Flatiron school in London;
+- 👨🏽‍💻 I am a Data scientist based in London;
 <!-- - 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London; -->
 - ⏳ I am constantly learning and keep myself updated with the latest technologies. 
-- 🤔 My interests are Data Science, web development and design;
+- 🤔 My interests are Data Science, web development and design ( UX/UI ) using Figma;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via josh_billion@yahoo.com to reach me.
 - 📝 See my [Resume]() to get more info.
@@ -114,3 +114,22 @@ Happy Coding!!
 ```python
 
 ```
+
+## 🌟 Stargazers over time
+
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/MDEwOlJlcG9zaXRvcnkyNzg5Mjk4Njc=.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-profile-views-counter&ut$
+
+[Anton Komarev]: https://komarev.com
+[GitHub, Inc]: https://github.com
+[Live demo]: https://github.com/antonkomarev
+[my profile repository]: https://github.com/antonkomarev/antonkomarev
+[Help me cut server costs]: https://paypal.me/antonkomarev
+[Become a sponsor]: https://paypal.me/antonkomarev
+[GitHub Camo service]: https://github.blog/2010-11-13-sidejack-prevention-phase-3-ssl-proxied-assets/
+[Ÿ HŸPE]: https://yhype.me
+
+
+
+
+
+
