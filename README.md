@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=code-JOA&style=flat-square)
+
+
+
 ## Hi there, I'm [Josh]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/code-JOA?style=social)
 
 
