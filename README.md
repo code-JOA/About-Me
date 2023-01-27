@@ -1,6 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=code-JOA&style=flat-square)
-<!-- ![Project Views](https://komarev.com/ghpvc/?username=code-JOA&color=green)
- -->
+
 
 
 ## Hi there, I'm [Josh]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/code-JOA?style=social)
@@ -26,8 +25,11 @@
 - 🤔 My interests are Data Science, web development and design ( UX/UI ) using Figma;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via josh_billion@yahoo.com to reach me.
+- :snowman: 
+- :e-mail: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-joshbillion1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joshbillion1@gmail.com)](mailto:joshbillion1@gmail.com)
 - 📝 See my [Resume]() to get more info.
 - 🎯Visit my [website](https://code-joa.github.io/My-Website/) 
+
 
 <br/> 
 </em>
