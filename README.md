@@ -119,6 +119,10 @@ Happy Coding!!
 
 ```
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-JOA" alt="code-JOA" /></a> </p>
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=code-JOA&style=flat-square)
 
 
