@@ -12,7 +12,9 @@
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/> -->
+
+<!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
 
